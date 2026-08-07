@@ -10,7 +10,7 @@
 * **Age:** 15
 * **Location:** Palangka Raya, Indonesia
 * **Status:** Beginner Coder / Developer
-* **Favorite Food:** Nasi Goreng (Nasgor) 🍛
+* **Favorite Food:** Nasgor Goreng (Nasgor) 🍛
 * **Motto:** *"Build, Break, Learn, Repeat"*
 
 ---
