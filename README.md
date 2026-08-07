@@ -1,13 +1,12 @@
 <div align="center">
-  <!-- Banner Anime Utama -->
+  <!-- Banner Anime Estetik -->
   <img src="https://i.pinimg.com/originals/70/63/0e/70630e2f5b667083049b494632832870.gif" alt="ZavedyaaID Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 <br>
 
 <div align="center">
-  <h1>✨ Welcome to ZavedyaaID's GitHub Profile! ✨</h1>
-  <p><i>"Build, Break, Learn, Repeat"</i> 🚀</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+ZavedyaaID;Welcome+to+My+GitHub+Profile!;Build,+Break,+Learn,+Repeat" alt="ZavedyaaID Typing" />
 </div>
 
 ---
@@ -90,7 +89,7 @@
   "database": "Supabase & Firestore",
   "deployment": "Vercel / Railway / Docker"
 }
-
+```
 <div align="center">
 <h3>🌐 Mari Terhubung</h3>
 ​<a href="https://github.com/ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/GitHub-ZavedyaaID-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
