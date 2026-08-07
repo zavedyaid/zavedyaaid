@@ -90,6 +90,7 @@
   "database": "Supabase & Firestore",
   "deployment": "Vercel / Railway / Docker"
 }
+
 <div align="center">
 <h3>🌐 Mari Terhubung</h3>
 ​<a href="https://github.com/ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/GitHub-ZavedyaaID-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
