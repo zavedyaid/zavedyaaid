@@ -1,123 +1,63 @@
- 
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=15+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://github.com/DitzSenpai"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:aditzyhakun@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ditztakahashi&color=6C5CE7&style=flat" />
-</p>
-
----
-
-##  About
-
-name: Aditiya Nur Wahyuda
-
-alias: ZavedyaID / SHINN
-
-age: 15
-
-location: Indonesia
-
-school: SMP
-
-skills: [JavaScript, Typescript, HTML, CSS, Node.js, Express]
-
-hobbies: [coding, anime, manga, manwha, donghua, jualan]
-
----
-
-## 🖼️ Gallery
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/83c215db36ed2f8aa47418f7b2677e0d.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/cb3ad8175bc80409855cf506c202792c.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/804e310d58b30cf6c9bed66429737892.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <br />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/05d46e2a7b03d6c1b73382f142bfe453.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/407d6e1cd4527015053a7836edda6f63.jpg" width="150" height="150" style="border-radius: 10px; margin: 5px;" />
-  <img src="https://raw.githubusercontent.com/DitzSenpai/Gtw/refs/heads/main/foto/a41d1f70-5f24-461d-9dfe-7d05bd6960f5_removalai_preview.png" width="150" style="border-radius: 10px; margin: 5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+there!+👋+I'm+ZavedyaaID;+Build%2C+Break%2C+Learn%2C+Repeat" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About Me
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+* **Name:** ZavedyaaID
+* **Age:** 15
+* **Location:** Palangka Raya, Indonesia
+* **Status:** Beginner Coder / Developer
+* **Favorite Food:** Nasi Goreng (Nasgor) 🍛
+* **Motto:** *"Build, Break, Learn, Repeat"*
 
 ---
 
-## 📊 Progress
+### 🛠️ Tech Stack & Tools
 
-| Skill | Level |
-|-------|-------|
-| JavaScript | ████░░░░░░ 40% |
-| JavaScript | ██████░░░░ 70% |
-| HTML/CSS | ███████░░░ 70% |
-| Node.js | ██░░░░░░░░ 20% |
-| Express.js | █░░░░░░░░░ 10% |
-| Git/GitHub | ███░░░░░░░ 30% |
-| Jualan Online | ██████░░░░ 60% |
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Runtime & Frameworks** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) |
+| **Databases & ORM** | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white) |
+| **Auth & Storage** | JWT, Supabase Auth, Firebase Auth, Supabase/Firebase Storage |
+| **Deployment & Tools** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
 ---
 
-##  Watchlist
+### 🚀 Projects & Works
 
-| Anime | Manga | Manwha | Donghua |
-|-------|-------|--------|---------|
-| [Class Of The Elite] | [] | [Love Quest] | [] |
-| [The Eminence in Shadow] | [] | [Circles] | []
----
-
-##  Merchant
-
-| Platform | Products | Status |
-|----------|----------|--------|
-| Wa | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟢 Active |
-| Telegram | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟢 Active |
-| Website | [AM PRO, YOUTUBE PREMIUM,CAPCUT PRO, WINK PREMIUM] | 🟡 Limited |
+* **Web Development:**
+  * 🌐 **ZavedyaaID Portfolio** — Built with TypeScript + Supabase
+  * 📱 **SaveTok** — TypeScript + REST API integration
+* **Automation & Bots:**
+  * 🤖 **ZavedyaaID WhatsApp Bot** — Node.js + Baileys library
+* **Backend & Mobile:**
+  * ⚡ **REST API** — Node.js + Supabase backend architecture
+  * 📱 **Mobile App** — React Native + Firestore integration
 
 ---
 
-##  GitHub Stats
+### 🎯 Hobbies & Interests
+* 💻 Coding & Building Projects
+* 🎮 Gaming
+* 🎬 Video Editing
+* 🎨 UI/UX Design
+* 📚 Learning New Tech Stack
+
+---
+
+### 🌐 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ZavedyaaID-181717?style=flat&logo=github&logoColor=white)](https://github.com/ZavedyaaID)
+[![Instagram](https://img.shields.io/badge/Instagram-@zavedyaaid-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/zavedyaaid)
+[![YouTube](https://img.shields.io/badge/YouTube-ZavedyaaID-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@ZavedyaaID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZavedyaaID-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZavedyaaID)
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ditztakahashi&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ditztakahashi&layout=compact&hide_border=true&theme=radical&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZavedyaaID&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="ZavedyaaID's GitHub Stats" />
 </div>
-
----
-
-## 💬 Quote
- 
-> *"Kadang kita perlu istirahat dari ngoding, tapi jangan pernah istirahat dari belajar."*
->
-> *"Anime mengajarkan mimpi, coding mengajarkan cara mewujudkannya."*
-
----
-
-<p align="center">
-  <sub>© 2026 DitzDigital · Built with ❤️ + ☕ + 📺</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-</p>
-# Hello, my name is Aditya, you can call me Ditz
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=14+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing SVG" # Halo Nama ku Aditya Bisa di panggil ditz
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=500&color=6C5CE7&center=true&vCenter=true&width=435&lines=15+y.o.+%7C+SMP+Student;JavaScript+Learner;Anime+Enthusiast" alt="Typing 
