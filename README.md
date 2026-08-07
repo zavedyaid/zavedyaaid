@@ -1,12 +1,13 @@
 <div align="center">
-  <!-- Banner Anime Estetik -->
+  <!-- Banner Anime Utama -->
   <img src="https://i.pinimg.com/originals/70/63/0e/70630e2f5b667083049b494632832870.gif" alt="ZavedyaaID Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+There!+👋+I'm+ZavedyaaID;Welcome+to+My+GitHub+Profile!;Build,+Break,+Learn,+Repeat" alt="ZavedyaaID Typing" />
+  <h1>✨ Welcome to ZavedyaaID's GitHub Profile! ✨</h1>
+  <p><i>"Build, Break, Learn, Repeat"</i> 🚀</p>
 </div>
 
 ---
@@ -89,3 +90,12 @@
   "database": "Supabase & Firestore",
   "deployment": "Vercel / Railway / Docker"
 }
+<div align="center">
+<h3>🌐 Mari Terhubung</h3>
+​<a href="https://github.com/ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/GitHub-ZavedyaaID-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://instagram.com/zavedyaaid" target="_blank"><img src="https://img.shields.io/badge/Instagram-@zavedyaaid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://youtube.com/@ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/YouTube-ZavedyaaID-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://linkedin.com/in/ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ZavedyaaID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+​<!-- Gambar Penutup Anime -->
+<img src="https://i.pinimg.com/564x/78/76/5f/78765f7164068e98689a8749066209ae.jpg" alt="Anime Peace" width="280" style="border-radius: 15px;">
+</div>
