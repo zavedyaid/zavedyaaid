@@ -48,25 +48,9 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 <a href="https://linkedin.com/in/ZavedyaID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://npmjs.com/~zavedyaaid"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></a>
 
-</td>
-<td width="45%" align="center" valign="middle" style="border:none;">
-  <!-- 3 Gambar Vertikal -->
-  <img src="https://picsum.photos/seed/code1/360/200" alt="Coding" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3); margin-bottom:12px;"/>
-  <br>
-  <img src="https://picsum.photos/seed/code2/360/200" alt="Project" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3); margin-bottom:12px;"/>
-  <br>
-  <img src="https://picsum.photos/seed/code3/360/200" alt="Community" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3);"/>
-</td>
-</tr>
-</table>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>  <img src="https://picsum.photos/seed/zavedya/360/640" alt="Coder" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3);"/>
 </td>
 </tr>
 </table>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/>
-</div>
