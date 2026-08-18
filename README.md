@@ -36,10 +36,10 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 `PostgreSQL` · `MongoDB` · `Firebase` · `Docker` · `Git` · `Figma`
 
 📂 **Proyek Unggulan:**  
-• [Baileys](https://github.com/ZavedyaID/Baileys) – Library WhatsApp multi-device (npm: `zavedyaaid/baileys`, [socket.dev](https://socket.dev/))  
-• [Portfolio](https://zavedya.id) – Website personal pake TypeScript + Supabase  
-• [REST API](https://api.zavedya.id) – Backend API untuk berbagai layanan  
-• [CDN Uploader](https://cdn.zavedya.id) – Layanan upload & hosting file
+• <img src="https://img.shields.io/badge/🔵-Baileys-38BDF8?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0F2027"/> – Library WhatsApp multi-device (npm: `zavedyaaid/baileys`)  
+• <img src="https://img.shields.io/badge/🟢-Portfolio-2C5364?style=flat-square&logo=vercel&logoColor=white&labelColor=0F2027"/> – Website personal pake TypeScript + Supabase  
+• <img src="https://img.shields.io/badge/🟣-REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white&labelColor=0F2027"/> – API untuk bot WhatsApp  
+• <img src="https://img.shields.io/badge/🟠-CDN%20Uploader-F97316?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0F2027"/> – Layanan upload & hosting file
 
 🔗 **Temui Aku di sini:**  
 <a href="https://github.com/ZavedyaID"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -50,7 +50,19 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 
 </td>
 <td width="45%" align="center" valign="middle" style="border:none;">
-  <img src="https://picsum.photos/seed/zavedya/360/640" alt="Coder" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3);"/>
+  <!-- 3 Gambar Vertikal -->
+  <img src="https://picsum.photos/seed/code1/360/200" alt="Coding" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3); margin-bottom:12px;"/>
+  <br>
+  <img src="https://picsum.photos/seed/code2/360/200" alt="Project" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3); margin-bottom:12px;"/>
+  <br>
+  <img src="https://picsum.photos/seed/code3/360/200" alt="Community" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3);"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2C5364,100:0F2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+</div>  <img src="https://picsum.photos/seed/zavedya/360/640" alt="Coder" width="280" style="border-radius:16px; box-shadow:0 8px 32px rgba(56,189,248,0.3);"/>
 </td>
 </tr>
 </table>
