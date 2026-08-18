@@ -1,11 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:38BDF8&height=180&section=header&fontSize=0&fontAlignY=0" width="100%"/>
-
-  <!-- Teks Berjalan -->
-  <marquee behavior="alternate" scrollamount="6" style="font-size:18px; color:#38BDF8; font-weight:bold; margin-top:-40px; background:transparent; padding:8px 0;">
-    🚀 Welcome to My Coding Universe! • Build, Break, Learn, Repeat • Let's Create Something Amazing ✨
-  </marquee>
-
   <!-- Nama Utama -->
   <h1 style="font-size:52px; color:#ffffff; margin-top:-10px; letter-spacing:3px; text-shadow:0 0 30px rgba(56,189,248,0.3);">
     ZavedyaID
