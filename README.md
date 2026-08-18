@@ -8,16 +8,6 @@
 </div>
 
 <br>
-
-  <!-- Tombol animasi -->
-  <a href="https://github.com/ZavedyaaID" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Explore_My_Work-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" 
-         onmouseover="this.style.transform='scale(1.08)'" 
-         onmouseout="this.style.transform='scale(1)'" 
-         style="transition:0.3s; border-radius:8px; margin-top:6px;">
-  </a>
-</div>
-
 <table width="100%" align="center">
 <tr>
 <td width="55%" valign="top">
