@@ -43,7 +43,6 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
      alt="Foto ZavedyaID"
      style="border-radius:50%; width:180px; height:180px; object-fit:cover; border:4px solid #38BDF8; box-shadow:0 0 30px rgba(56,189,248,0.3);">
 <br>
-<em style="color:#38BDF8; font-size:14px;">✨ ZavedyaID ✨</em>
 
 </td>
 </tr>
@@ -56,11 +55,11 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 
 <div align="left" style="max-width:800px; margin:0 auto; padding:0 16px;">
 
-• <a href="https://github.com/ZavedyaID/baileys" target="_blank"><img src="https://img.shields.io/badge/🔵-Baileys-38BDF8?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0F2027"/></a> – Library WhatsApp multi-device (<a href="https://www.npmjs.com/package/zavedyaaid/baileys" target="_blank">npm: zavedyaaid/baileys</a>)  
-• <a href="https://zavedya.id" target="_blank"><img src="https://img.shields.io/badge/🟢-Portfolio-2C5364?style=flat-square&logo=vercel&logoColor=white&labelColor=0F2027"/></a> – Website personal pake TypeScript + Supabase  
-• <a href="https://api.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/🟣-REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white&labelColor=0F2027"/></a> – API untuk bot WhatsApp  
-• <a href="https://cdn.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/🟠-CDN%20Uploader-F97316?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0F2027"/></a> – Layanan upload & hosting file  
-• <a href="https://savetok.my.id" target="_blank"><img src="https://img.shields.io/badge/📥-Savetok-FF6B6B?style=flat-square&logo=tiktok&logoColor=white&labelColor=0F2027"/></a> – Download video TikTok  
+• <a href="https://github.com/ZavedyaID/baileys" target="_blank"><img src="https://img.shields.io/badge/-Baileys-38BDF8?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0F2027"/></a> – Library WhatsApp multi-device (<a href="https://www.npmjs.com/package/zavedyaaid/baileys" target="_blank">npm: zavedyaaid/baileys</a>)  
+• <a href="https://zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2C5364?style=flat-square&logo=vercel&logoColor=white&labelColor=0F2027"/></a> – Website personal pake TypeScript + Supabase  
+• <a href="https://api.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white&labelColor=0F2027"/></a> – API untuk bot WhatsApp  
+• <a href="https://cdn.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-CDN%20Uploader-F97316?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0F2027"/></a> – Layanan upload & hosting file  
+• <a href="https://savetok.my.id" target="_blank"><img src="https://img.shields.io/badge/-Savetok-FF6B6B?style=flat-square&logo=tiktok&logoColor=white&labelColor=0F2027"/></a> – Download video TikTok  
 • <a href="https://snippet.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/📝-Snippet-FFD93D?style=flat-square&logo=code&logoColor=black&labelColor=0F2027"/></a> – Kumpulan code / scrape
 
 </div>
