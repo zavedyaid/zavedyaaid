@@ -1,5 +1,14 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:38BDF8&height=180&section=header&text=ZavedyaaID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Beginner%20Coder%20%7C%20Palangka%20Raya&descAlignY=54&descSize=16" width="100%"/>
+
+  <img src="https://img.shields.io/badge/Age-15-38BDF8?style=for-the-badge&labelColor=0F2027">
+<img src="https://img.shields.io/badge/Location-Palangka%20Raya%2C%20Indonesia-2C5364?style=for-the-badge&labelColor=0F2027">
+<img src="https://img.shields.io/badge/Status-Beginner%20Coder-0F2027?style=for-the-badge&labelColor=38BDF8">
+
+</div>
+
+<br>
+
   <!-- Tombol animasi -->
   <a href="https://github.com/ZavedyaaID" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Explore_My_Work-38BDF8?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027" 
