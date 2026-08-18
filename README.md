@@ -28,12 +28,26 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 
 ---
 
-🌱 **Sekarang lagi belajar:**  
-`NestJS` · `Supabase` · `React Native`
+🌱 **Sekarang lagi belajar:**<br>
+<!-- Ikon-ikon teknologi (hanya gambar) -->
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" height="28" alt="NestJS" title="NestJS">
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="28" alt="Supabase" title="Supabase">
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React Native" title="React Native">
 
-💡 **Bahasa & Tools andalan:**  
-`JavaScript` · `TypeScript` · `Python` · `Node.js` · `Express` · `React` · `Next.js`  
-`PostgreSQL` · `MongoDB` · `Firebase` · `Docker` · `Git` · `Figma`
+💡 **Bahasa & Tools andalan:**<br>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="28" alt="JavaScript" title="JavaScript">
+<img src="https://cdn.simpleicons.org/typescript/3178C6" height="28" alt="TypeScript" title="TypeScript">
+<img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python" title="Python">
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" height="28" alt="Node.js" title="Node.js">
+<img src="https://cdn.simpleicons.org/express/000000" height="28" alt="Express" title="Express">
+<img src="https://cdn.simpleicons.org/react/61DAFB" height="28" alt="React" title="React">
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" height="28" alt="Next.js" title="Next.js">
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" height="28" alt="PostgreSQL" title="PostgreSQL">
+<img src="https://cdn.simpleicons.org/mongodb/47A248" height="28" alt="MongoDB" title="MongoDB">
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" height="28" alt="Firebase" title="Firebase">
+<img src="https://cdn.simpleicons.org/docker/2496ED" height="28" alt="Docker" title="Docker">
+<img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="Git" title="Git">
+<img src="https://cdn.simpleicons.org/figma/F24E1E" height="28" alt="Figma" title="Figma">
 
 </td>
 <td width="45%" valign="middle" align="center" style="border:none;">
@@ -50,98 +64,20 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 
 ---
 
-<!-- ============ PROYEK UNGGULAN (gaya bullet dengan badge) ============ -->
+<!-- ============ PROYEK UNGGULAN ============ -->
 <h2 align="center" style="color:#38BDF8;">📂 Proyek Unggulan</h2>
 
 <div align="left" style="max-width:800px; margin:0 auto; padding:0 16px;">
 
-• <a href="https://github.com/ZavedyaID/baileys" target="_blank"><img src="https://img.shields.io/badge/-Baileys-38BDF8?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0F2027"/></a> – Library WhatsApp multi-device (<a href="https://www.npmjs.com/package/zavedyaaid/baileys" target="_blank">npm: zavedyaaid/baileys</a>)  
+• <a href="https://github.com/ZavedyaID/baileys" target="_blank"><img src="https://img.shields.io/badge/-Baileys-38BDF8?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0F2027"/></a>
+  – Library WhatsApp multi-device
+  (<a href="https://www.npmjs.com/package/zavedyaaid/baileys" target="_blank"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/></a>)  
 • <a href="https://zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-2C5364?style=flat-square&logo=vercel&logoColor=white&labelColor=0F2027"/></a> – Website personal pake TypeScript + Supabase  
 • <a href="https://api.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-REST%20API-8B5CF6?style=flat-square&logo=postman&logoColor=white&labelColor=0F2027"/></a> – API untuk bot WhatsApp  
 • <a href="https://cdn.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/-CDN%20Uploader-F97316?style=flat-square&logo=cloudflare&logoColor=white&labelColor=0F2027"/></a> – Layanan upload & hosting file  
 • <a href="https://savetok.my.id" target="_blank"><img src="https://img.shields.io/badge/-Savetok-FF6B6B?style=flat-square&logo=tiktok&logoColor=white&labelColor=0F2027"/></a> – Download video TikTok  
 • <a href="https://snippet.zavedya.id" target="_blank"><img src="https://img.shields.io/badge/📝-Snippet-FFD93D?style=flat-square&logo=code&logoColor=black&labelColor=0F2027"/></a> – Kumpulan code / scrape
 
-</div>
-
----
-
-<!-- ============ WAIFU SLIDE (dengan CSS animation) ============ -->
-<h2 align="center" style="color:#38BDF8;">🌸 Liat Waifu 🌸</h2>
-
-<div align="center" style="max-width:700px; margin:0 auto; background:linear-gradient(145deg,#0F2027,#1a2f3d); border-radius:20px; padding:20px; border:1px solid #2C5364; box-shadow:0 4px 30px rgba(0,0,0,0.5);">
-
-  <style>
-    .waifu-slider {
-      display:flex;
-      width:400%;
-      height:100%;
-      animation: slideWaifu 16s infinite ease-in-out;
-    }
-    .waifu-slider > div {
-      width:25%;
-      height:100%;
-      display:flex;
-      align-items:center;
-      justify-content:center;
-      flex-shrink:0;
-    }
-    .waifu-slider img {
-      width:100%;
-      height:100%;
-      object-fit:cover;
-      border-radius:12px;
-    }
-    @keyframes slideWaifu {
-      0%   { transform: translateX(0%); }
-      20%  { transform: translateX(0%); }
-      25%  { transform: translateX(-25%); }
-      45%  { transform: translateX(-25%); }
-      50%  { transform: translateX(-50%); }
-      70%  { transform: translateX(-50%); }
-      75%  { transform: translateX(-75%); }
-      95%  { transform: translateX(-75%); }
-      100% { transform: translateX(0%); }
-    }
-    .waifu-dots {
-      display:flex;
-      justify-content:center;
-      gap:10px;
-      margin-top:14px;
-    }
-    .waifu-dots span {
-      display:inline-block;
-      width:10px;
-      height:10px;
-      border-radius:50%;
-      background:#2C5364;
-      animation: dotPulse 4s infinite ease-in-out;
-    }
-    .waifu-dots span:nth-child(1) { animation-delay:0s; }
-    .waifu-dots span:nth-child(2) { animation-delay:1s; }
-    .waifu-dots span:nth-child(3) { animation-delay:2s; }
-    .waifu-dots span:nth-child(4) { animation-delay:3s; }
-    @keyframes dotPulse {
-      0%, 100% { background:#2C5364; transform:scale(1); }
-      50% { background:#38BDF8; transform:scale(1.3); }
-    }
-  </style>
-
-  <div style="position:relative; width:100%; max-width:600px; margin:0 auto; overflow:hidden; border-radius:16px; aspect-ratio:16/9; background:#0a161c;">
-    <div class="waifu-slider">
-      <div><img src="https://picsum.photos/seed/waifu1/800/450" alt="Waifu 1"></div>
-      <div><img src="https://picsum.photos/seed/waifu2/800/450" alt="Waifu 2"></div>
-      <div><img src="https://picsum.photos/seed/waifu3/800/450" alt="Waifu 3"></div>
-      <div><img src="https://picsum.photos/seed/waifu4/800/450" alt="Waifu 4"></div>
-    </div>
-  </div>
-
-  <div class="waifu-dots">
-    <span></span><span></span><span></span><span></span>
-  </div>
-
-  <p style="color:#a0c4d6; font-size:13px; margin-top:10px;">✨ Koleksi Waifu pilihan — geser otomatis ✨</p>
-  <p style="color:#6b8d9e; font-size:12px;">(⚠️ Efek slide hanya aktif jika CSS didukung. Ganti gambar dengan waifu favoritmu)</p>
 </div>
 
 ---
