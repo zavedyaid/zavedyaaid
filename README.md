@@ -21,7 +21,7 @@
 <tr>
 <td width="55%" valign="top" style="border:none; padding-right:24px;">
 
-## 👋 Halo, Sobat!
+## 👋 Halo Cuy!
 
 Aku **ZavedyaID**, bocah 15 tahun dari Palangka Raya yang lagi asyik ngoprek kode.  
 Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran berharga 😄
