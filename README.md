@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Banner Anime Estetik -->
-  <img src="https://i.pinimg.com/originals/70/63/0e/70630e2f5b667083049b494632832870.gif" alt="ZavedyaaID Banner" width="100%" style="border-radius: 10px;">
+  <!-- Banner Anime Estetik (upload gambar banner kamu sendiri ke assets/banner.gif|jpg lalu ganti path ini) -->
+  <img src="assets/banner.gif" alt="ZavedyaaID Banner" width="100%" style="border-radius: 10px;">
 </div>
 
 <br>
@@ -27,7 +27,7 @@
       </td>
       <td width="30%" align="center">
         <!-- Karakter Anime Profil -->
-        <img src="https://i.pinimg.com/564x/6f/c5/a8/6fc5a8f0464a07f5994515c13f75a4fb.jpg" alt="Anime Coder" width="160" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(56,189,248,0.3);">
+        <img src="assets/avatar.jpg" alt="Anime Coder" width="160" style="border-radius: 50%; box-shadow: 0px 4px 12px rgba(56,189,248,0.3);">
       </td>
     </tr>
   </table>
@@ -97,5 +97,5 @@
 <a href="https://youtube.com/@ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/YouTube-ZavedyaaID-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 <a href="https://linkedin.com/in/ZavedyaaID" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ZavedyaaID-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 ​<!-- Gambar Penutup Anime -->
-<img src="https://i.pinimg.com/564x/78/76/5f/78765f7164068e98689a8749066209ae.jpg" alt="Anime Peace" width="280" style="border-radius: 15px;">
+<img src="assets/closing.jpg" alt="Anime Peace" width="280" style="border-radius: 15px;">
 </div>
