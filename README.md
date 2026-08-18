@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:38BDF8&height=180&section=header&fontSize=0&fontAlignY=0" width="100%"/>
-  <!-- Nama Utama -->
-  <h1 style="font-size:52px; color:#ffffff; margin-top:-10px; letter-spacing:3px; text-shadow:0 0 30px rgba(56,189,248,0.3);">
-    ZavedyaID
-  </h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:38BDF8&height=180&section=header&text=ZavedyaaID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Beginner%20Coder%20%7C%20Palangka%20Raya&descAlignY=54&descSize=16" width="100%"/>
 
   <!-- Badge Info -->
   <img src="https://img.shields.io/badge/Age-15-38BDF8?style=for-the-badge&labelColor=0F2027">
