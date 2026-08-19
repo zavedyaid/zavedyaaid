@@ -55,7 +55,7 @@ Motto: *"Build, Break, Learn, Repeat"* – karena setiap error itu pelajaran ber
 <!-- FOTO MUKA - ganti src dengan foto asli kamu -->
 <img src="https://cdnzavedya.vercel.app/file/3ch2e.png"
      alt="Foto ZavedyaID"
-     style="border-radius:50%; width:180px; height:180px; object-fit:cover; border:4px solid #38BDF8; box-shadow:0 0 30px rgba(56,189,248,0.3);">
+     style="border-radius:50%; object-fit:cover; border:4px solid #38BDF8; box-shadow:0 0 30px rgba(56,189,248,0.3);">
 <br>
 
 </td>
